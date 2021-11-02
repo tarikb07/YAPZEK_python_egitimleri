@@ -1,1 +1,1 @@
-# YAPZEK_python_egitimleri
+yapzek
