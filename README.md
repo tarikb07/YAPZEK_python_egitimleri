@@ -1,0 +1,1 @@
+# YAPZEK_python_egitimleri
