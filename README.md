@@ -1,1 +1,1 @@
-# YapZek Kulübü İçerisinde Verilen Eğitimlerin Python Dosyaları
+# YapZek Kulübü İçerisinde Verilen Eğitimlerin Python Dosyaları!
